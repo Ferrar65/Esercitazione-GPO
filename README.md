@@ -1,7 +1,7 @@
 # Esercitazione-GPO
 5AL SHHHHH
 
-Scarica i files e inserisci i files in una cartella.
+Scarica i files e inseriscili in una cartella.
 
 
 Commandi da inserire: 
